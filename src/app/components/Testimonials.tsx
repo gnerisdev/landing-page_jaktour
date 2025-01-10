@@ -6,10 +6,9 @@ import { useState } from "react";
 const Testimonials = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   interface TestimonialData{
-      img: string,
-      review: string,
-      name: string,
-      company: string
+    img: string,
+    review: string,
+    name: string,
   }
 
   const testimonialsData: TestimonialData[] = [

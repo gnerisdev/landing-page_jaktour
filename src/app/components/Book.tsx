@@ -16,9 +16,9 @@ const Book = () => {
             <p className="text-[16px] text-litegrey font-normal max-w-[300px]" data-aos="fade-down">
               O turismo entrou em minha vida por um conselho valioso da minha melhor amiga. Durante anos,
               eu organizava as viagens do grupo do hospital, sempre me dedicando para oferecer o melhor, 
-              mas sem receber o merecido reconhecimento. Foi então que minha amiga me disse: "Deixe de 
+              mas sem receber o merecido reconhecimento. Foi então que minha amiga me disse: &quot;Deixe de 
               ser boazinha e transforme o turismo em algo mais. Faça disso um extra na sua vida, dê 
-              valor ao que você faz."
+              valor ao que você faz.&quot;
               Essas palavras acenderam uma chama em mim. Decidi me valorizar e tornar o turismo não 
               apenas uma paixão, mas também um propósito. Assim começou minha jornada.
             </p>
