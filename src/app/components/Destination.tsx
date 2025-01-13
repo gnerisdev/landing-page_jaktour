@@ -21,7 +21,7 @@ const Destination = () => {
         sideImg: ""
       },
       {
-        img: "/img/por-do-sol-unico-eleito.jpg",
+        img: "/img/marco-3-fronteiras.jpeg",
         location: "Marco das 3 fronteira",
         amount: "R$1,890 à vista",
         days: "De 22 a 28 de setembro de 2025",
@@ -57,7 +57,7 @@ const Destination = () => {
                         width={300} 
                         height={300} 
                         alt="img" 
-                        className="w-full h-full rounded-tl-2xl rounded-tr-2xl object-cover" 
+                        className="w-full h-full rounded-[8px] object-contain" 
                       />
                   </div>
                   <div className="grid grid-cols-1 gap-2 p-4">
